@@ -17,7 +17,3 @@ This project demonstrates a complete pipeline for:
    - The code automatically installs all required dependencies.  
    - No manual setup is needed.  
 
----
-
-## 📁 Files Overview
-- `x.json` – contains ReID results structured by:
